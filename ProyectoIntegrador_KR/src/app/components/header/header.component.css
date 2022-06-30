@@ -1,4 +1,7 @@
 div{
-    background-color: blue;
-   
+    background-color: rgb(107, 122, 209);   
+}
+app-social{
+    float: right;
+    margin-top: 25px;
 }
